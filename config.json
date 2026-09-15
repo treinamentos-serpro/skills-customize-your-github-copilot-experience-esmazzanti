@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "csv-data-processing",
+      "title": "Working with CSV Data",
+      "description": "Read, filter, and summarize data from CSV files using Python.",
+      "path": "assignments/csv-data-processing",
+      "dueDate": "2026-09-22",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Dataset",
+          "file": "students.csv",
+          "type": "csv"
+        }
+      ]
     }
   ]
 }
